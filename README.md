@@ -25,7 +25,7 @@ This repository contains the **game's source code and shaders** (Unity 6, URP). 
 
 <p align="center"><img src="docs/05_death.jpg" width="49%"></p>
 
-The trailer is on the [itch.io page](https://spookytake.itch.io/the-mandela-catalogue).
+The trailer is on the [itch.io page]([https://spookytake.itch.io/the-mandela-catalogue](https://youtu.be/rf1MNlNlobo)).
 
 ## What's inside
 
