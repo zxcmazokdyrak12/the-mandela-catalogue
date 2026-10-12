@@ -63,14 +63,9 @@ Models, textures, sounds and fonts come from third-party packs and from the orig
 This is an **unofficial, non-commercial fan game**. It is not affiliated with or endorsed by Alex Kister.
 *The Mandela Catalogue*, its setting and characters belong to Alex Kister — watch the original series: https://www.youtube.com/@AlexxKister
 
-## About AI
-
-The game was made with the help of AI tools: Claude (code, some textures, the death-screen sound, the trailer edit) and ElevenLabs (character voices).
 
 ## License
 
 The source code in this repository is released under the [MIT License](LICENSE). It does not cover any third-party assets or *The Mandela Catalogue* IP. `Shaders/PSXLit.shader` is derived from Unity's URP Lit shader and stays under the [Unity Companion License](https://unity.com/legal/licenses/unity-companion-license).
 
 ---
-
-<sub>Русский: бесплатная неофициальная фан-игра по The Mandela Catalogue. В репозитории только код и шейдеры (Unity 6, URP); модели, звуки и текстуры не выкладываются. Играть — на <a href="https://spookytake.itch.io/the-mandela-catalogue">itch.io</a>.</sub>
